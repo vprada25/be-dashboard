@@ -1,0 +1,10 @@
+.resource-breadcrumb {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.resource-breadcrumb span {
+  font-weight: normal;
+}

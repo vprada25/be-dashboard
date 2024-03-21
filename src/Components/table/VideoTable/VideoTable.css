@@ -1,0 +1,9 @@
+.video-table__name {
+  display: flex;
+  gap: 18px;
+}
+
+.video-table__icon {
+  font-size: 18px;
+  color: var(--primary-color);
+}

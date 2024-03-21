@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+:root {
+  --border-radius-base: 6px;
+  --element-color: #f4f4f4;
+  --primary-color: #4a00ff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f4f4f4;
+  color: black;
+}
+
+/*********************************************
+ * Utilities
+ *********************************************/
+
+.container {
+  padding: 12px 40px;
+  height: 100vh;
+}
